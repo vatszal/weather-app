@@ -32,7 +32,7 @@ To install the Weather Extension, follow these steps:
 - JavaScript
 
 ## Acknowledgments
-Thanks to OpenWeather for providing the weather data.
+Thanks to [OpenWeather](https://openweathermap.org/) for providing the weather data.
 
 ## Credits
 The design idea has been inspired by the [GreatStack youtube channel](https://www.youtube.com/@GreatStackDev). However, the code was not written by following the tutorial; instead, it has been developed from scratch.
